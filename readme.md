@@ -1,6 +1,4 @@
-Here's a comprehensive `README.md` file for your project:
 
----
 
 # Bhagavad Gita Query Application
 
@@ -24,7 +22,7 @@ The Bhagavad Gita Query Application is an intelligent system designed to provide
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/bhagavad-gita-query-app.git
+   git clone https://github.com//bhagavad-gita-query-app.git
    cd bhagavad-gita-query-app
    ```
 
