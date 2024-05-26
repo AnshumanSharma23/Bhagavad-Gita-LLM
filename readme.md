@@ -22,7 +22,7 @@ The Bhagavad Gita Query Application is an intelligent system designed to provide
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com//bhagavad-gita-query-app.git
+   git clone https://github.com/AnshumanSharma23/Bhagavad-Gita-LLM.git
    cd bhagavad-gita-query-app
    ```
 
